@@ -21,6 +21,13 @@ body {
     border: dotted 1px lightgray;
 }
 
+.product-card img {
+    display: block;
+    height: 250px;
+    width: 250px;
+    margin: 5px auto;
+}
+
 ul {
     list-style-type: none;
 }
