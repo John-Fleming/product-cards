@@ -103,15 +103,3 @@ ul {
     margin-top: 5px;
     margin-bottom: 5px;
 }
-
-@media (max-width: 600px) {
-.flex-container {
-    flex: 1 46%;
-}
-}
-
-@media (max-width: 480px) {
-    .flex-container {
-        flex: 1 100%;
-    }
-    }
